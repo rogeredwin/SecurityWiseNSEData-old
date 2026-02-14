@@ -42,9 +42,7 @@
             max-width: 468px;
         }
     </style>
-
-                    <script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"1843936",ustr:"",originlat:"0",clientrtt:"1",ghostip:"23.192.164.21",ipv6:false,pct:"10",clientip:"135.232.176.161",requestid:"64a3017e",region:"44387",protocol:"",blver:14,akM:"",akN:"ae",akTT:"O",akTX:"1",akTI:"64a3017e",ai:"956394",ra:"false",pmgn:"",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>
-                    </head>
+</head>
 <body>
     <div class="header">
         <div class="logo">
